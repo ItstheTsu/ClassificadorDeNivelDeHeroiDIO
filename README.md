@@ -45,7 +45,7 @@ O projeto consiste em um script principal (`classificador.js`) que:
 
 ## ✨ Personalização
 
-Edite o arquivo `classificador.js` para alterar:
+Edite o arquivo `playeer.js` para alterar:
 ```javascript
 const nomeHeroi = "Seu Herói"; // Altere o nome aqui
 const xp = 7500; // Altere a experiência aqui
