@@ -71,7 +71,7 @@ Contribuições são bem-vindas! Siga estes passos:
 Este projeto está licenciado sob a Licença Apache 2.0 - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ```
-Copyright [ANO] [NOME DO AUTOR]
+Copyright [2025] [Allan Correa (Tsu)]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
