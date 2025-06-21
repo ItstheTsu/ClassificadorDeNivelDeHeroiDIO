@@ -7,7 +7,7 @@ function menuAventura() {
     let ativo = true;
     while (ativo) {
         atualizarNivel();
-        console.log(`\n🎖️ Herói: ${player.nome} | XP: ${player.xp} | Nível: ${player.nivel} | Dano: ${calcularDano()}`);
+        console.log(`\n🎖️ Herói: ${player.nome} | Rank: ${player.rank} | XP: ${player.xp} | Nível: ${player.nivel} | Dano: ${calcularDano()}`);
         console.log("1. Treinar");
         console.log("2. Aventura");
         console.log("3. Abandonar aventura");
