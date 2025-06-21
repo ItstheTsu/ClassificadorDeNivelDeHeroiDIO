@@ -20,13 +20,13 @@ git clone https://github.com/seu-usuario/classificador-heroi.git
 
 2. Execute o script:
 ```bash
-node classificador.js
+node index.js
 ```
 
 ## 🛠️ Estrutura do Código
 
-O projeto consiste em um script principal (`classificador.js`) que:
-- Define o nome e XP do herói
+O projeto consiste em um script principal (`index.js`) que:
+- Reúne os arquivos de DATA e PLAYER
 - Utiliza uma estrutura de decisão para determinar o nível
 - Exibe o resultado no console
 
