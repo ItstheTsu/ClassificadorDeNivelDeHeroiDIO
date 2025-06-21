@@ -32,7 +32,7 @@ O projeto consiste em um script principal (`classificador.js`) que:
 
 ## 📊 Tabela de Níveis
 
-| Faixa de XP       | Nível        |
+| Faixa de XP       | Nível       |
 |-------------------|-------------|
 | < 1.000           | Ferro       |
 | 1.001 - 2.000     | Bronze      |
@@ -41,7 +41,7 @@ O projeto consiste em um script principal (`classificador.js`) que:
 | 7.001 - 8.000     | Platina     |
 | 8.001 - 9.000     | Ascendente  |
 | 9.001 - 10.000    | Imortal     |
-| > 10.000          | Radiante    |
+| Maior que 10.000  | Radiante    |
 
 ## ✨ Personalização
 
